@@ -4,12 +4,14 @@
 
     </head>
     <body>
-        <h1> <b>Welcom to My Website</b></h1>
+        <h1> <b>Welcom to Maria Website</b></h1>
         <div>
             <b>About Me</b>
             <br>
             <p>
-                Hello! My Name is Maria.I'am Lrearning HTML & CSS
+                Hello! My Name is Maria.I'm Learning HTML & CSS.
+                <br>
+                I'm a final-year student at Arab American University.
             </p>
             <b>Check Out My Favorite Hobbi!</b>
             <br>
