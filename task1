@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    </head>
+    <body>
+        <h1> <b>Welcom to My Website</b></h1>
+        <div>
+            <b>About Me</b>
+            <br>
+            <p>
+                Hello! My Name is Maria.I'am Lrearning HTML & CSS
+            </p>
+            <b>Check Out My Favorite Hobbi!</b>
+            <br>
+            <img src="https://img.freepik.com/premium-vector/web-designer-programmer-working-desktop-computer-cartoon-woman-coding-different-programming-languages_102902-7000.jpg" style="width: 400px; height: 300px;">    
+        </div>
+        <div>
+            <b>Visit my Favorite Site</b>
+            <p>Click below to visit my Favorite Site</p>
+            <a href="https://www.google.co.uk/">Go to google</a>
+        </div>
+        
+    </body>
+</html>
